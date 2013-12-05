@@ -1,65 +1,74 @@
-Vision 
-Digital kommunikationsapp till surfplatta för brukare med särskilda behov.
+ï»¿Vision 
+=============
 
-Introduktion.
-På marknaden finns en uppsjö mobila kommunikationshjälpmedel för personer med särskild funktionsnedsättning. Nästan alla utgår dock från att personen kan hantera sin smarta mobiltelefon eller surfplatta själv på något sätt och i övrigt har en vissa förmågor.
-Personer med ovanliga kombinationer av funktionsnedsättning kan ha svårt att passa in på användarbeskrivningen för dessa kommunikationsappar.
-Syftet med detta dokument är att lyfta fram hur en person som har nedsatt syn, lider av dövhet, saknar tal, betydande rörelsehinder och i övrigt har en mental utvecklingsstörning kan dra nytta av ett kommunikationshjälpmedel som särskilt kan anpassas för denna personen och dennes behov.
+Introduktion
+------------
+
+PÃ¥ marknaden finns en uppsjÃ¶ mobila kommunikationshjÃ¤lpmedel fÃ¶r personer med sÃ¤rskild funktionsnedsÃ¤ttning. NÃ¤stan alla utgÃ¥r dock frÃ¥n att personen kan hantera sin smarta mobiltelefon eller surfplatta sjÃ¤lv pÃ¥ nÃ¥got sÃ¤tt och i Ã¶vrigt har en vissa fÃ¶rmÃ¥gor.
+Personer med ovanliga kombinationer av funktionsnedsÃ¤ttning kan ha svÃ¥rt att passa in pÃ¥ anvÃ¤ndarbeskrivningen fÃ¶r dessa kommunikationsappar.
+Syftet med detta dokument Ã¤r att lyfta fram hur en person som har nedsatt syn, lider av dÃ¶vhet, saknar tal, betydande rÃ¶relsehinder och i Ã¶vrigt har en mental utvecklingsstÃ¶rning kan dra nytta av en kommunikationsapp som sÃ¤rskilt kan anpassas fÃ¶r denna personen och dennes behov.
 
 
 Ordlista
+--------
 assistent
-   I detta dokument, kort för personlig assistent. Lagen om stöd och service till vissa funktionshindrade kan under vissa förutsättningar bevilja en person stöd i form av personlig assistans. Personlig assistent är den person som utgör det stödet. En personlig assistents uppgifter syftar i grunden till att hjälpa den assistansberättigade personen att överbrygga sina funktionshinder och ha möjlighet att leva ett så normalt liv som möjligt.
+   I detta dokument, kort fÃ¶r personlig assistent. Lagen om stÃ¶d och service till vissa funktionshindrade kan under vissa fÃ¶rutsÃ¤ttningar bevilja en person stÃ¶d i form av personlig assistans. Personlig assistent Ã¤r den person som utgÃ¶r det stÃ¶det. En personlig assistents uppgifter syftar i grunden till att hjÃ¤lpa den assistansberÃ¤ttigade personen att Ã¶verbrygga sina funktionshinder och ha mÃ¶jlighet att leva ett sÃ¥ normalt liv som mÃ¶jligt.
 bliss
-   ett system av symboler där ord och begrepp representeras av bilder.
-brukare I detta dokument, personen som uppbär personlig assistans.
+   ett system av symboler dÃ¤r ord och begrepp representeras av bilder.
+brukare I detta dokument, personen som uppbÃ¤r personlig assistans.
 Kommunikationsapp
-    En app för mobiltelefon eller surfplatta som kan användas för kommunikation.
-kommunikationshjälpmedel
-    Ett hjälpmedel som överbryggar förekommande problem avseende kommunikation av något slag.
+    En app fÃ¶r mobiltelefon eller surfplatta som kan anvÃ¤ndas fÃ¶r kommunikation.
+kommunikationshjÃ¤lpmedel
+    Ett hjÃ¤lpmedel som Ã¶verbryggar fÃ¶rekommande problem avseende kommunikation av nÃ¥got slag.
 Kommunikationskarta 
-    Ett ark med teckensymboler som en person som saknar tal kan använda och peka på för att uttrycka något.
+    Ett ark med teckensymboler som en person som saknar tal kan anvÃ¤nda och peka pÃ¥ fÃ¶r att uttrycka nÃ¥got.
 
 
 Bakgrund
-Brukaren använder en uppsättning kommunikationskartor som häftats ihop till ett block, där förstasidan innehåller blisstecken som motsvarar var sin sida i blocket. Totalt finns ett par hundra blisstecken till brukarens förfogande. Blisstecknen är små, så positionen av dem har lärts in. Brukaren pekar på blisskartorna med sin tunga och assistenten pekar på blisstecknen tills brukaren bekräftar att assistenten pekar på rätt blisstecken. Assistenten återkopplar då genom att teckna ordet som blisstecknet motsvarar med hjälp av teckenspråk.
+--------
+Brukaren anvÃ¤nder en uppsÃ¤ttning kommunikationskartor som hÃ¤ftats ihop till ett block, dÃ¤r fÃ¶rstasidan innehÃ¥ller blisstecken som motsvarar var sin sida i blocket. Totalt finns ett par hundra blisstecken till brukarens fÃ¶rfogande. Blisstecknen Ã¤r smÃ¥, sÃ¥ positionen av dem har lÃ¤rts in. Brukaren pekar pÃ¥ blisskartorna med sin tunga och assistenten pekar pÃ¥ blisstecknen tills brukaren bekrÃ¤ftar att assistenten pekar pÃ¥ rÃ¤tt blisstecken. Assistenten Ã¥terkopplar dÃ¥ genom att teckna ordet som blisstecknet motsvarar med hjÃ¤lp av teckensprÃ¥k.
 
 
-Problem och lösningar
-Nya assistenter framförallt, men även vana assistenter har svårt med återkopplingen i teckenspråk. Det är en hög tröskel att lära sig ett helt nytt sätt att kommunicera och kvaliteten blir ofta begränsad eftersom återkoppling på användningen av teckenspråket i inlärningsskedet är starkt begränsad.
+Problem och lÃ¶sningar
+---------------------
+Nya assistenter framfÃ¶rallt, men Ã¤ven vana assistenter har svÃ¥rt med Ã¥terkopplingen i teckensprÃ¥k. Det Ã¤r en hÃ¶g trÃ¶skel att lÃ¤ra sig ett helt nytt sÃ¤tt att kommunicera och kvaliteten blir ofta begrÃ¤nsad eftersom Ã¥terkoppling pÃ¥ anvÃ¤ndningen av teckensprÃ¥ket i inlÃ¤rningsskedet Ã¤r starkt begrÃ¤nsad.
 
--Teckenspråksillustrationer som kopplas till de olika blisstecknen skulle vara en värdefull minneshjälp för nya assistenter att lära sig teckenspråk som stöd, även för att homogenisera det sätt olika assistenterna tecknar till brukaren.
+-TeckensprÃ¥ksillustrationer som kopplas till de olika blisstecknen skulle vara en vÃ¤rdefull minneshjÃ¤lp fÃ¶r nya assistenter att lÃ¤ra sig teckensprÃ¥k som stÃ¶d, Ã¤ven fÃ¶r att homogenisera det sÃ¤tt olika assistenterna tecknar till brukaren.
 
-Att blisstecknen är små leder till att blisstecknens position snarare än vad blisstecknen säger blir relevant. Detta försvårar möjligheten att dynamiskt lägga till och flytta blisstecken kraftikt begränsas.
+Att blisstecknen Ã¤r smÃ¥ leder till att blisstecknens position snarare Ã¤n vad blisstecknen sÃ¤ger blir relevant. Detta fÃ¶rsvÃ¥rar mÃ¶jligheten att dynamiskt lÃ¤gga till och flytta blisstecken kraftikt begrÃ¤nsas.
 
--Med en kommunikationsapp skulle blisstecknen kunna förstoras och därmed ge en direkt återkoppling till brukaren, så att brukaren enklare kan utvecklas i sin kunskap om bliss-språket och utöka sitt ordförråd. Blisstecknens position blir mindre viktiga, vilket underlättar utökandet av antal tecken som kan läggas till i de digitala blisskartorna.
+-Med en kommunikationsapp skulle blisstecknen kunna fÃ¶rstoras och dÃ¤rmed ge en direkt Ã¥terkoppling till brukaren, sÃ¥ att brukaren enklare kan utvecklas i sin kunskap om bliss-sprÃ¥ket och utÃ¶ka sitt ordfÃ¶rrÃ¥d. Blisstecknens position blir mindre viktiga, vilket underlÃ¤ttar utÃ¶kandet av antal tecken som kan lÃ¤ggas till i de digitala blisskartorna.
 
-Att göra en förändring i kommunikationskartorna är en relativt tidskrävande insats, vilket i praktiken leder till att kommunikationskartorna uppdateras väldigt sällan.
+Att gÃ¶ra en fÃ¶rÃ¤ndring i kommunikationskartorna Ã¤r en relativt tidskrÃ¤vande insats, vilket i praktiken leder till att kommunikationskartorna uppdateras vÃ¤ldigt sÃ¤llan.
 
--Ett digitalt kommunikationshjälpmedel kan uppdateras betydligt oftare och mer dynamiskt än vad som är möjligt för närvarande. Vissa ändringar skulle kunna göras direkt på surfplattan.
+-Ett digitalt kommunikationshjÃ¤lpmedel kan uppdateras betydligt oftare och mer dynamiskt Ã¤n vad som Ã¤r mÃ¶jligt fÃ¶r nÃ¤rvarande. Vissa Ã¤ndringar skulle kunna gÃ¶ras direkt pÃ¥ surfplattan.
 
-Ett flertal extra funktioner skulle kunna läggas till, såsom utskrifter och e-post, inlärning av nya blisstecken med hjälp av fotografier, samt någon sorts funktion som skulle kunna fungera som en samtalsmatta - bilder som diskussionsunderlag. Detta skulle bland annat kunna göra det möjligt för brukaren att bli mer delaktig och göra aktiva val.
+Ett flertal extra funktioner skulle kunna lÃ¤ggas till, sÃ¥som utskrifter och e-post, inlÃ¤rning av nya blisstecken med hjÃ¤lp av fotografier, samt nÃ¥gon sorts funktion som skulle kunna fungera som en samtalsmatta - bilder som diskussionsunderlag. Detta skulle bland annat kunna gÃ¶ra det mÃ¶jligt fÃ¶r brukaren att bli mer delaktig och gÃ¶ra aktiva val.
 
-Behov som denna app behöver lösa som generellt inte hanteras i andra kommunikationshjälpmedelsappar:
- 1) återkoppling med stora bilder,
- 2) koppling till såväl blisstecken som teckenspråk, samt
- 3) hantering av val anpassat för en extra begräftelse i kedjan där innan valet görs att brukaren får chans att svara på om assistenten har markerat rätt val.
+Behov som denna app behÃ¶ver lÃ¶sa som generellt inte hanteras i andra kommunikationshjÃ¤lpmedelsappar:
+ 1) Ã¥terkoppling med stora bilder,
+ 2) koppling till sÃ¥vÃ¤l blisstecken som teckensprÃ¥k, samt
+ 3) hantering av val anpassat fÃ¶r en extra begrÃ¤ftelse i kedjan dÃ¤r innan valet gÃ¶rs att brukaren fÃ¥r chans att svara pÃ¥ om assistenten har markerat rÃ¤tt val.
 
-Användargrupper.
-Brukaren - Behöver hjälpmedlet för att berika sin språkliga kommunikation
-Vana assistenter - Kan använda hjälpmedlet för att hjälpa brukaren göra sin kommunikation rikare.
-Ovana assistenter - Behöver hjälpmedlet för att underlätta introduktionen och snabbare komma in i kommunikationen med brukaren genom att främst få stöd i sitt eget teckenspråksanvändande.
-Tillfälliga assistenter - Hjälpmedlet sänker potentiellt kravet på teckenspråkskunskap, eftersom hjälpmedlet i sig ger bättre direkt återkoppling än nuvarande lösning.
-Kommande assistenter - Hjälpmedlet sänker tröskeln för nya assistenter att komma in, då man kan få bättre stöd i inlärningen.
+AnvÃ¤ndargrupper
+---------------
+Brukaren - BehÃ¶ver hjÃ¤lpmedlet fÃ¶r att berika sin sprÃ¥kliga kommunikation
+Vana assistenter - Kan anvÃ¤nda hjÃ¤lpmedlet fÃ¶r att hjÃ¤lpa brukaren gÃ¶ra sin kommunikation rikare.
+Ovana assistenter - BehÃ¶ver hjÃ¤lpmedlet fÃ¶r att underlÃ¤tta introduktionen och snabbare komma in i kommunikationen med brukaren genom att frÃ¤mst fÃ¥ stÃ¶d i sitt eget teckensprÃ¥ksanvÃ¤ndande.
+TillfÃ¤lliga assistenter - HjÃ¤lpmedlet sÃ¤nker potentiellt kravet pÃ¥ teckensprÃ¥kskunskap, eftersom hjÃ¤lpmedlet i sig ger bÃ¤ttre direkt Ã¥terkoppling Ã¤n nuvarande lÃ¶sning.
+Kommande assistenter - HjÃ¤lpmedlet sÃ¤nker trÃ¶skeln fÃ¶r nya assistenter att komma in, dÃ¥ man kan fÃ¥ bÃ¤ttre stÃ¶d i inlÃ¤rningen.
 
-Intressenter.
-Assistenternas arbetsgivare - Måluppfyllelse, rekrytering, kostnader.
-Brukarens daglig-verksamhetspersonal - Att hjälpmedlet fungerar i linje med arbetssätt man använder där.
+Intressenter
+------------
+Assistenternas arbetsgivare - MÃ¥luppfyllelse, rekrytering, kostnader.
+Brukarens daglig-verksamhetspersonal - Att hjÃ¤lpmedlet fungerar i linje med arbetssÃ¤tt man anvÃ¤nder dÃ¤r.
 Brukarens gode man - Kostnader, intressetillvaratagande.
-Hjälpmedelsförskrivare. - Framtidssäkra hjälpmedlet, vem står för underhåll/utveckling?
-Specialpedagogiska skolmyndigheten - Blisstecken och ritade teckenspråksbilder som kan användas i appen. Kanske kan inspireras av appen för andra brukare.
+HjÃ¤lpmedelsfÃ¶rskrivare. - FramtidssÃ¤kra hjÃ¤lpmedlet, vem stÃ¥r fÃ¶r underhÃ¥ll/utveckling?
+Specialpedagogiska skolmyndigheten - Blisstecken och ritade teckensprÃ¥ksbilder som kan anvÃ¤ndas i appen. Kanske kan inspireras av appen fÃ¶r andra brukare.
 
-Liknande system.
-Det finns inga system som uppfyller baskraven, men idéer kan inhämtas från befintliga appar.
+Liknande system
+---------------
+Det finns inga system som uppfyller baskraven, men idÃ©er kan inhÃ¤mtas frÃ¥n befintliga appar.
 
-Baskrav.
+Baskrav
+-------
