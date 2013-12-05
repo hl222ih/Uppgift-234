@@ -12,11 +12,16 @@ Syftet med detta dokument är att lyfta fram hur en person som har nedsatt syn, 
 Ordlista
 --------
 **assistent**: I detta dokument, kort för personlig assistent. Lagen om stöd och service till vissa funktionshindrade kan under vissa förutsättningar bevilja en person stöd i form av personlig assistans. Personlig assistent är den person som utgör det stödet. En personlig assistents uppgifter syftar i grunden till att hjälpa den assistansberättigade personen att överbrygga sina funktionshinder och ha möjlighet att leva ett så normalt liv som möjligt.
+
 **bliss**: Ett system av symboler där ord och begrepp representeras av bilder.
+
 **brukare**: I detta dokument, personen som uppbär personlig assistans.
+
 **kommunikationsapp**: En app för mobiltelefon eller surfplatta som kan användas för kommunikation.
+
 **kommunikationshjälpmedel**: Ett hjälpmedel som överbryggar förekommande problem avseende kommunikation av något slag.
-**kommunikationskarta**:: Ett ark med teckensymboler som en person som saknar tal kan använda och peka på för att uttrycka något.
+
+**kommunikationskarta**: Ett ark med teckensymboler som en person som saknar tal kan använda och peka på för att uttrycka något.
 
 Bakgrund
 --------
@@ -36,18 +41,26 @@ Problembeskrivningar
 
 Användargrupper
 ---------------
-**Brukaren** - Behöver hjälpmedlet för att berika sin språkliga kommunikation
+**Brukaren** - Behöver hjälpmedlet för att berika sin språkliga kommunikation.
+
 **Vana assistenter** - Kan använda hjälpmedlet för att hjälpa brukaren göra sin kommunikation rikare.
+
 **Ovana assistenter** - Behöver hjälpmedlet för att underlätta introduktionen och snabbare komma in i kommunikationen med brukaren genom att främst få stöd i sitt eget teckenspråksanvändande.
+
 **Tillfälliga assistenter** - Hjälpmedlet sänker potentiellt kravet på teckenspråkskunskap, eftersom hjälpmedlet i sig ger bättre direkt återkoppling än nuvarande lösning.
+
 **Kommande assistenter** - Hjälpmedlet sänker tröskeln för nya assistenter att komma in, då man kan få bättre stöd i inlärningen.
 
 Intressenter
 ------------
 **Assistenternas arbetsgivare** - Måluppfyllelse, rekrytering, kostnader.
+
 **Brukarens daglig-verksamhetspersonal** - Att hjälpmedlet fungerar i linje med arbetssätt man använder där.
+
 **Brukarens gode man** - Kostnader, intressetillvaratagande.
+
 **Hjälpmedelsförskrivare** - Framtidssäkra hjälpmedlet, vem står för underhåll/utveckling?
+
 **Specialpedagogiska skolmyndigheten** - Blisstecken och ritade teckenspråksbilder som kan användas i appen. Kanske kan inspireras av appen för andra brukare.
 
 Liknande system
