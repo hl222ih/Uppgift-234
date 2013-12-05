@@ -6,8 +6,7 @@ Introduktion
 
 På marknaden finns en uppsjö mobila kommunikationshjälpmedel för personer med särskild funktionsnedsättning. Nästan alla utgår dock från att personen kan hantera sin smarta mobiltelefon eller surfplatta själv på något sätt och i övrigt har en vissa förmågor.
 Personer med ovanliga kombinationer av funktionsnedsättning kan ha svårt att passa in på användarbeskrivningen för dessa kommunikationsappar.
-Syftet med detta dokument är att lyfta fram hur en person som har nedsatt syn, lider av dövhet, saknar tal, betydande rörelsehinder och i övrigt har en mental utvecklingsstörning kan dra nytta av en kommunikationsapp som särskilt kan anpassas för denna personen och dennes behov.
-
+Syftet är att skapa en kommunikationsapp för en person med speciella funktionsnedsättningar som nedsatt syn, dövhet, avsaknad av tal, betydande rörelsehinder och i övrigt har en mental utvecklingsstörning, med några viktiga funktioner.
 
 Ordlista
 --------
