@@ -28,7 +28,7 @@ Tillhandahåller de vanligaste blisstecknen och teckenillustrationerna. Vill ha 
 
 ### Offstage-aktörer ###
 
-#### God man ####
+#### Brukarens gode man ####
 Vill att appen ska hålla god kvalitet för sin brukare och för att underlätta för brukarens assistenter. Vill att eventuella kostnader ska hållas nere.
 
 #### Assistenternas arbetsgivare och brukarens uppdragsgivare ####
@@ -53,7 +53,8 @@ Sidmallar styr utseendet (rutornas storlek, färg och position) och tillhandahå
 
 #### Användningsfall ####
 ##### Underhållsanvarig #####
-**AF 2.1.1** Byta sidmall
+**AF 2.1.1** Byta sidmall<br />
+<p style="padding-left: 40px;">Underhållsansvarige vill byta layout på en sida. Han navigerar till aktuell sida och touchar sidomenyknappen. Han väljer "Sidmallsinställningar". Appen visar en lista med de sidmallar som finns tillgängliga i databasen för sidmallar. Han markerar en sidmall som det då visas en miniatyr av. Han touchar "Välj" och sidmallen läggs då till i en lista. Om han vill att olika sidmallar ska användas då man bläddrar på sidorna i appen, kan han lägga till flera sidmallar. "Han touchar "Spara" och appen återgår då till sidan, nu laddad med den nya sidmallen. Befintliga blissbilder återfinns nu i de numrerade rutorna precis som tidigare, men nu i en annan formation. Om den nya sidmallen inte innehöll tillräckligt många rutor skapas automatiskt extra sidor med samma layout som den sista sidmallen i listan.</p>
 **AF 2.1.2** Ändra inställningar för vald sidmall
 
 ### F3 Rutor ###
@@ -61,7 +62,9 @@ Det ska gå att koppla innehåll (blisstecken, teckenspråksillustrationer och f
 
 #### Användningsfall ####
 ##### Underhållsanvarig #####
-**AF 3.1.1** Koppla innehåll till en ruta
+**AF 3.1.1** Koppla innehåll till en ruta<br />
+<p style="padding-left: 40px;">Mallen innehåller ett antal tomma rutor. Underhållsansvarige gör en lång-touch på rutan och får upp en meny "Koppla innehåll". Underhållsansvarige väljer att huvud-bilden ska vara ett blisstecken och touchar valet "blisstecken". Appen visar då en lista över alla tillgängliga blisstecken i databasen med blisstecken. Underhållsansvarige scrollar fram rätt tecken, touchar för att markera det och touchar "lägg till"-knappen. Appen registrerar blisstecknet i databasen över rutor och kopplar ihop den med rutans ID. Appen återgår till "Koppla innehåll". Underhållsansvarige upprepar eventuellt samma procedur för sido-bilderna (vänster för teckenspråksillustration och höger för foto).</p>
+
 **AF 3.1.2** Tömma en ruta på innehåll 
 
 ### F4 Blisstecken/Teckenspråksillustrationer/Fotografier ###
@@ -69,12 +72,13 @@ Det ska gå att lägga till, ta bort och göra specifika inställningar (ex.vis 
 
 #### Användningsfall ####
 ##### Underhållsanvarig #####
-**AF 4.1.1** Lägga till ett blisstecken i databasen
-**AF 4.1.2** Ta bort ett blisstecken i databasen
-**AF 4.1.3** Lägga till en teckenspråksillustration i databasen
-**AF 4.1.4** Ta bort en teckenspråksillustration i databasen
-**AF 4.1.5** Lägga till ett fotografi i databasen
-**AF 4.1.6** Ta bort ett fotografi i databasen
+**AF 4.1.1** Lägga till ett blisstecken i databasen<br />
+<p style="padding-left: 40px;">Brukaren vill lägga till ett nytt blisstecken. Underhållsansvarige touchar sidomenyn och väljer "Lägg till blisstecken".  Underhållsansvarige bläddrar fram rätt bild i download-katalogen på surfplattan och touchar "ok". En miniatyr av bilden visas samt ett antal inställningsmöjligheter, bland annat ordklasstillhörighet (som bestämmer bakgrundsfärg), en textrepresentation och en beskrivning. Underhållsansvarige touchar spara och appen sparar blisstecknet med inställningarna i blisstecken-databasen.</p>
+**AF 4.1.2** Ta bort ett blisstecken från databasen<br />
+**AF 4.1.3** Lägga till en teckenspråksillustration i databasen<br />
+**AF 4.1.4** Ta bort en teckenspråksillustration från databasen<br />
+**AF 4.1.5** Lägga till ett fotografi i databasen<br />
+**AF 4.1.6** Ta bort ett fotografi från databasen<br />
 **AF 4.1.7** Ändra beskrivning av ett blisstecken, en teckenspråksillustration eller ett fotografi i databasen.
 
 ### F5 Spara kommunikationen. ###
@@ -82,9 +86,9 @@ Det ska gå att markera om det som kommuniceras tillfälligt ska lagras eller in
 
 #### Användningsfall ####
 ##### Brukaren #####
-**AF5.1.1** Ändra så kommunikationen sparas/inte längre sparas
-**AF5.1.2** Spara en kommunikation.
-**AF5.1.3** Ladda en tidigare sparad kommunikation.
+**AF5.1.1** Ändra så kommunikationen sparas/inte längre sparas<br />
+**AF5.1.2** Spara en kommunikation.<br />
+**AF5.1.3** Ladda en tidigare sparad kommunikation.<br />
 **AF5.1.4** Skicka aktuell kommunikation i ett e-postmeddelande.
 
 ### F6 Backup ###
@@ -92,7 +96,7 @@ Det ska gå att utföra en backup av all information till molnet och det ska gå
 
 #### Användningsfall ####
 ##### Underhållsanvarig #####
-**AF6.1.1** Skapa en backup.
+**AF6.1.1** Skapa en backup.<br />
 **AF6.1.2** Återställa från backup.
 
 ## Icke-funktionella Krav ##
