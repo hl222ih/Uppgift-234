@@ -1,6 +1,5 @@
 <link href="http://jasonm23.github.io/markdown-css-themes/markdown2.css" rel="stylesheet"></link>
-# Användningsfall F1.1.1 #
-# - Säga något till assistenten eller till någon annan #
+# Användningsfall F1.1.1 - Säga något till någon #
 
 Brukaren har precis påkallat uppmärksamhet att hen vill använda appen för att säga något. Hen vill säga till sin assistent att hen vill ha kaffe. Brukaren visar med tungan hur han vill navigera i appen medan assistenten återkopplar de ord brukaren väljer.
 
@@ -67,7 +66,7 @@ Appen befinner sig återigen på valfri sida i navigationen med rutor.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gå till 5b. 4.<br />
 6a. Brukaren kommer på när assistenten tecknar ordet, att det valda ordet inte var korrekt.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.	Brukaren indikerar att det valda ordet är inkorrekt.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.	Assistenten touchar "stäng"-knappen.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.	Assistenten touchar "stäng"-knappen.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.	Appen stänger det förstorade innehållet.
     
 

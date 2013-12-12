@@ -20,18 +20,18 @@ Vill att assistenterna själva ska kunna utföra så mycket som möjligt. Dels b
 
 ### Stödjande aktörer ###
 
-#### Utvecklare ####
-Kan fixa buggar, lägga till/ändra funktioner, skapar HTML/CSS-mallar m.m. Under utvecklingsfasen i huvudsak en av assistenterna. Tillhandahålls sedan om hjälpmedlet beviljas av hjälpmedelsförskrivare på Hjälpmedelscentralen.
-
-#### Specialpedagogiska skolmyndigheten ####
-Tillhandahåller de vanligaste blisstecknen och teckenillustrationerna. Vill ha en kopia på appen när den är klar, kanske som inspirationskälla för andra personer med funktionsnedsättning med liknande behov.
+#### SPSM:s Bildbaser ####
+Specialpedagogiska skolmyndigheten tillhandahåller de vanligaste blisstecknen och teckenillustrationerna.
 
 ### Offstage-aktörer ###
+
+#### Utvecklare ####
+Kan fixa buggar, lägga till/ändra funktioner, skapar HTML/CSS-mallar m.m. Under utvecklingsfasen i huvudsak en av assistenterna. Tillhandahålls sedan om hjälpmedlet beviljas av hjälpmedelsförskrivare på Hjälpmedelscentralen.
 
 #### Brukarens gode man ####
 Vill att appen ska hålla god kvalitet för sin brukare och för att underlätta för brukarens assistenter. Vill att eventuella kostnader ska hållas nere.
 
-#### Assistenternas arbetsgivare och brukarens uppdragsgivare ####
+#### Arbetsgivare ####
 Vill att appen ska bidra till måluppfyllelse och underlätta rekrytering. Kan eventuellt tillhandahålla vissa resurser för produktutveckling och introduktionsutbildning.
 
 
@@ -43,7 +43,7 @@ Appens huvudsyfte är att den ska kunna användas för att kommunicera. Brukaren
 #### Användningsfall ####
 
 ##### Brukare #####
-[**AF 1.1.1**](Anvandningsfall.md) Säga något till assistenten eller till någon annan
+[**AF 1.1.1**](Anvandningsfall.md) Säga något till någon
 
 ##### Assistent #####
 **AF 1.2.1** Ställa en fråga till brukaren
@@ -62,26 +62,22 @@ Det ska gå att koppla innehåll (blisstecken, teckenspråksillustrationer och f
 
 #### Användningsfall ####
 ##### Underhållsanvarig #####
-**AF 3.1.1** Koppla innehåll till en ruta<br />
+**AF 3.1.1** Koppla innehåll till ruta<br />
 <p style="padding-left: 40px;">Mallen innehåller ett antal tomma rutor. Underhållsansvarige gör en lång-touch på rutan och får upp en meny "Koppla innehåll". Underhållsansvarige väljer att huvud-bilden ska vara ett blisstecken och touchar valet "blisstecken". Appen visar då en lista över alla tillgängliga blisstecken i databasen med blisstecken. Underhållsansvarige scrollar fram rätt tecken, touchar för att markera det och touchar "lägg till"-knappen. Appen registrerar blisstecknet i databasen över rutor och kopplar ihop den med rutans ID. Appen återgår till "Koppla innehåll". Underhållsansvarige upprepar eventuellt samma procedur för sido-bilderna (vänster för teckenspråksillustration och höger för foto).</p>
 
-**AF 3.1.2** Tömma en ruta på innehåll 
+**AF 3.1.2** Tömma ruta på innehåll 
 
-### F4 Blisstecken/Teckenspråksillustrationer/Fotografier ###
+### F4 Lägga till/ta bort media ###
 Det ska gå att lägga till, ta bort och göra specifika inställningar (ex.vis ändra  bakgrundsfärg, text, textposition) för de enskilda blisstecknen, teckenspråksillustrationerna och fotografierna. Blisstecken behöver en extra inställning för ordklass som styr standardbakgrundsfärg. Informationen om blisstecknen, teckenspråksillustrationerna och fotografierna ska lagras i tre olika databaser, så att även en bild kan bytas ut, men att övriga inställningar sparas. Fotografier som läggs till ska det skapas miniatyrer till.
 
 #### Användningsfall ####
 ##### Underhållsanvarig #####
-**AF 4.1.1** Lägga till ett blisstecken i databasen<br />
+**AF 4.1.1** Lägga till media<br />
 <p style="padding-left: 40px;">Brukaren vill lägga till ett nytt blisstecken. Underhållsansvarige touchar sidomenyn och väljer "Lägg till blisstecken".  Underhållsansvarige bläddrar fram rätt bild i download-katalogen på surfplattan och touchar "ok". En miniatyr av bilden visas samt ett antal inställningsmöjligheter, bland annat ordklasstillhörighet (som bestämmer bakgrundsfärg), en textrepresentation och en beskrivning. Underhållsansvarige touchar spara och appen sparar blisstecknet med inställningarna i blisstecken-databasen.</p>
-**AF 4.1.2** Ta bort ett blisstecken från databasen<br />
-**AF 4.1.3** Lägga till en teckenspråksillustration i databasen<br />
-**AF 4.1.4** Ta bort en teckenspråksillustration från databasen<br />
-**AF 4.1.5** Lägga till ett fotografi i databasen<br />
-**AF 4.1.6** Ta bort ett fotografi från databasen<br />
-**AF 4.1.7** Ändra beskrivning av ett blisstecken, en teckenspråksillustration eller ett fotografi i databasen.
+**AF 4.1.2** Ta bort media<br />
+**AF 4.1.7** Ändra beskrivning av media<br />
 
-### F5 Spara kommunikationen. ###
+### F5 Lagra kommunikation. ###
 Det ska gå att markera om det som kommuniceras tillfälligt ska lagras eller inte. Kommunikationen som lagrats ska kunna visas med huvudsymbolen och tillhörande text. Den tillhörande texten ska kunna redigeras. En symbol med tillhörande text ska kunna tas bort från den sparade kommunikationen.  En kommunikation som har lagrats ska kunna sparas till en fil eller skickas via mejl. En tidigare sparad kommunikation ska kunna öppnas från en fil.
 
 #### Användningsfall ####
