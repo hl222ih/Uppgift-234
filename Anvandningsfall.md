@@ -41,7 +41,7 @@ Appen befinner sig återigen på valfri sida i navigationen med rutor.
 1a. 1a. Kategorirutan har inställningen att den inte ska förstoras, utan går direkt och visar sidan som är kopplad till ”kategori”-rutan.<br />
 1a. 2a. Brukaren indikerar att valet är felaktigt.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Assistenten touchar "stäng"-knappen.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Appen ständer den förstorade rutan.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Appen stänger den förstorade rutan.<br />
 1b. Ordet eller kategorin finns inte med på sidan som visas.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Brukaren indikerar att hen vill återgå till föregående meny.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Assistenten gör en sveprörelse över sidan.<br />
@@ -52,7 +52,7 @@ Appen befinner sig återigen på valfri sida i navigationen med rutor.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Appen visar nästa sida på "multi"-sidan.<br />
 4a. Brukaren indikerar att valet var felaktigt<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Assistenten touchar ”stäng”-knappen.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Appen stänger den förstorade rutan.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Appen stänger det förstorade innehållet.<br />
 5a. Brukaren valde en kategori. Kategorier behöver inte tecknas.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gå till 7.<br />
 5b. Assistenten är osäker på hur ordet tecknas med teckenspråk.<br />
@@ -60,6 +60,7 @@ Appen befinner sig återigen på valfri sida i navigationen med rutor.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Assistenten gör en sveprörelse på det förstorade innehållet.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.	Appen visar teckenspråksillustrationen som är kopplad till blisstecknet.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.	Assistenten touchar ”stäng”-knappen på det förstorade innehållet.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Appen stänger det förstorade innehållet.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gå till 5.<br />
 5b. 3a. Det finns flera olika teckenspråksillustrationer kopplade till samma blisstecken.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.	Assistenten gör en sveprörelse för att se ”nästa” teckenspråksillustration.<br />
