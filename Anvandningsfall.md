@@ -1,5 +1,6 @@
 <link href="http://jasonm23.github.io/markdown-css-themes/markdown2.css" rel="stylesheet"></link>
-# Användningsfall F1.1.1 - Säga något till någon #
+# Användningsfall Kommunikationsapp #
+##F1.1.1 - Säga något till någon ##
 
 Brukaren har precis påkallat uppmärksamhet att hen vill använda appen för att säga något. Hen vill säga till sin assistent att hen vill ha kaffe. Brukaren visar med tungan hur han vill navigera i appen medan assistenten återkopplar de ord brukaren väljer.
 
@@ -51,7 +52,7 @@ Appen befinner sig återigen på valfri sida i navigationen med rutor.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Assistenten gör en sveprörelse över sidan.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Appen visar nästa sida på "multi"-sidan.<br />
 4a. Brukaren indikerar att valet var felaktigt<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Assistenten touchar ”stäng”-knappen.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Assistenten touchar utanför det förstorade innehållet.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Appen stänger det förstorade innehållet.<br />
 5a. Brukaren valde en kategori. Kategorier behöver inte tecknas.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gå till 7.<br />
@@ -59,7 +60,7 @@ Appen befinner sig återigen på valfri sida i navigationen med rutor.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Assistenten ser att det finns en tillgänglig teckenspråksillustration.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Assistenten gör en sveprörelse på det förstorade innehållet.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.	Appen visar teckenspråksillustrationen som är kopplad till blisstecknet.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.	Assistenten touchar ”stäng”-knappen på det förstorade innehållet.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.	Assistenten touchar utanför det förstorade innehållet.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Appen stänger det förstorade innehållet.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gå till 5.<br />
 5b. 3a. Det finns flera olika teckenspråksillustrationer kopplade till samma blisstecken.<br />
@@ -67,7 +68,7 @@ Appen befinner sig återigen på valfri sida i navigationen med rutor.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gå till 5b. 4.<br />
 6a. Brukaren kommer på när assistenten tecknar ordet, att det valda ordet inte var korrekt.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.	Brukaren indikerar att det valda ordet är inkorrekt.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.	Assistenten touchar "stäng"-knappen.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.	Assistenten touchar utanför det förstorade innehållet.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.	Appen stänger det förstorade innehållet.
     
 
