@@ -43,7 +43,7 @@ Starta programmet så att startsidan visas.
 1. Toucha blisstecknet för kategorin "drycker".
 2. Sidan med blisstecken för "drycker" visas. Blisstecknet för "coca-cola" finns inte med bland de blisstecken som visas.
 3. Gör en sveprörelse till vänster över skärmen.
-4. De tidigare osynliga blisstecknen visas.
+4. Verifiera att blisstecknet för "coca-cola" finns med.
 
 ### TF1.6 Alt. scenario: Visa teckenspråkshjälp för blisstecken. ###
 
@@ -56,14 +56,9 @@ Starta programmet så att startsidan visas.
 
 ### TF1.7 Alt. scenario: Visa ytterligare teckenspråkshjälp för blisstecken. ###
 
-1. Toucha blisstecknet för kategorin "drycker".
-2. Sidan med blisstecken för "drycker" visas.
-3. Toucha blisstecknet för "kaffe".
-4. Blisstecknet för "kaffe" förstoras på skärmen.
-5. Gör en sveprörelse till höger över det förstorade blisstecknet.
-6. En förstorad teckenspråksillustration visas på skärmen.
-7. Gör en sveprörelse till höger över den förstorade teckenspråksillustrationen.
-8. Nästa teckenspråksillustration för samma blisstecken visas på skärmen.
+1. Utför TF1.6 steg 1-6.
+2. Gör en sveprörelse till höger över den förstorade teckenspråksillustrationen.
+3. Nästa teckenspråksillustration för samma blisstecken visas på skärmen.
 
 ### TF1.8 Alt. scenario: Visa fotografi för blisstecken. ###
 
